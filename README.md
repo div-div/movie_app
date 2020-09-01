@@ -1,4 +1,4 @@
-# これは雑談アプリです！
+# これは雑談アプリです！[開発中]
 
 <img width="543" alt="スクリーンショット 2020-08-30 16 07 45" src="https://user-images.githubusercontent.com/67324060/91653619-5e5c4a00-eadd-11ea-8559-ad0aedac33e1.png">
 
