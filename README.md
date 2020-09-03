@@ -17,8 +17,6 @@
 
 # Usage
  
-
-# Note
  
 # Author
  
